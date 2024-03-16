@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Name=Launch Windows
+Icon=icons8-windows
+Exec=virsh start WindowsVM
